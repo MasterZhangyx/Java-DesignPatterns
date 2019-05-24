@@ -20,7 +20,8 @@
 *.rar
 ### Java template
 *.class
-
+### other file
+.DS_Store
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
